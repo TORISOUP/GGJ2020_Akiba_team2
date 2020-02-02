@@ -4,7 +4,7 @@ https://globalgamejam.org/2020/games/rrr-remove-reuse-repair-0
 
 # LICENSE
 
-Apach License
+Apache License 2.0
 
 # Copyright
 
