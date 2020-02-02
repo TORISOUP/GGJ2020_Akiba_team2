@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d17276496d8c4c7ea5c9cf06aebfc853, type: 3}
+  m_Name: OrderConfig
+  m_EditorClassIdentifier: 
+  Orders:
+  - _name: 0
+    _comboBonus: 300
+    _elements:
+    - _partType: 0
+      _needCount: 1
+    - _partType: 1
+      _needCount: 4
+  - _name: 1
+    _comboBonus: 500
+    _elements:
+    - _partType: 2
+      _needCount: 1
+    - _partType: 3
+      _needCount: 1
+    - _partType: 4
+      _needCount: 2
+    - _partType: 5
+      _needCount: 1
+    - _partType: 6
+      _needCount: 1
+  - _name: 2
+    _comboBonus: 150
+    _elements:
+    - _partType: 7
+      _needCount: 1
+    - _partType: 8
+      _needCount: 1
+    - _partType: 9
+      _needCount: 1

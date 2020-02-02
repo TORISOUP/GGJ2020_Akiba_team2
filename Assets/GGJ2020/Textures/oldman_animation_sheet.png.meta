@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b1f3bd6e3f1c9e34a91a1d217f032cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6330767825733545784
+    second: oldman_animation_sheet_0
+  - first:
+      213: -8655382229112660690
+    second: oldman_animation_sheet_1
+  - first:
+      213: 5016220779980419094
+    second: oldman_animation_sheet_2
+  - first:
+      213: 1377249362427585246
+    second: oldman_animation_sheet_3
+  - first:
+      213: 4004593298431537098
+    second: oldman_animation_sheet_4
+  - first:
+      213: 997776190708380992
+    second: oldman_animation_sheet_5
+  - first:
+      213: 7823731190217447941
+    second: oldman_animation_sheet_6
+  - first:
+      213: 4860208454652911019
+    second: oldman_animation_sheet_7
+  - first:
+      213: -7487049963140530030
+    second: oldman_animation_sheet_8
+  - first:
+      213: 4734309541871024413
+    second: oldman_animation_sheet_9
+  - first:
+      213: -4137136820970767188
+    second: oldman_animation_sheet_10
+  - first:
+      213: 3099279328583293751
+    second: oldman_animation_sheet_11
+  - first:
+      213: 8265169195065438567
+    second: oldman_animation_sheet_12
+  - first:
+      213: 8272723437581295325
+    second: oldman_animation_sheet_13
+  - first:
+      213: -1562543208069020491
+    second: oldman_animation_sheet_14
+  - first:
+      213: -3383027535827346249
+    second: oldman_animation_sheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oldman_animation_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 304
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe150bbc76bd750800000000000000
+      internalID: 6330767825733545784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 305
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd28688b7e1e780800000000000000
+      internalID: -8655382229112660690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 304
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107aa9e8323d9540800000000000000
+      internalID: 5016220779980419094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 305
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed221a68ff8fc1310800000000000000
+      internalID: 1377249362427585246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 203
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfebee336c239730800000000000000
+      internalID: 4004593298431537098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 204
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045f384b820d8dd00800000000000000
+      internalID: 997776190708380992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 203
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1e0bc01a739c60800000000000000
+      internalID: 7823731190217447941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 206
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baddfe9c6dde27340800000000000000
+      internalID: 4860208454652911019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29048630ab7a81890800000000000000
+      internalID: -7487049963140530030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f6f3e175a3b140800000000000000
+      internalID: 4734309541871024413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 104
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac39d61bffe596c0800000000000000
+      internalID: -4137136820970767188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 104
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1befe02ad20b20800000000000000
+      internalID: 3099279328583293751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76170689797c3b270800000000000000
+      internalID: 8265169195065438567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded41eb22e9ec270800000000000000
+      internalID: 8272723437581295325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c8d02b3bb05ae0800000000000000
+      internalID: -1562543208069020491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_animation_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc55a551621d01d0800000000000000
+      internalID: -3383027535827346249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
